@@ -19,3 +19,8 @@ Users can answer multiple-choice questions, view their score at the end, and rec
 - JavaScript
 
 ## Live Demo
+[Click here to view the live project](https://ritikakumari13.github.io/quiz-time-app/)
+
+## Author
+**Ritika Kumari**  
+[GitHub Profile](https://github.com/ritikakumari13)
